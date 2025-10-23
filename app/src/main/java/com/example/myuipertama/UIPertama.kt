@@ -120,6 +120,15 @@ fun ActivitasPertama(modifier: Modifier){
                     contentDescription = null,
                     modifier = Modifier.size(100.dp).padding(5.dp)
                 )
+                Spacer(modifier = Modifier.width(30.dp))
+                Column() {
+                    Text(
+                        stringResource(R.string.nama2),
+                        fontSize = 30.sp,
+                        fontFamily = FontFamily.SansSerif,
+                        color = Color.White,
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
 
 
 
