@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">myUipertama</string>
     <string name="prodi">Teknologi Informasi</string>
-    <string name="univ">Universitas Muhammmadiyah</string>
     <string name="nama">Muhammad Naufal Ghulam F</string>
     <string name="alamat">Gedriyan, Bantul</string>
-    <string name="copy">Copy Right 2025</ string>
-</resources>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="copy">copyright, 2025</string>
+    <string name="nama1">Muhammad Naufal Ghulam F</string>
+    </resources>
